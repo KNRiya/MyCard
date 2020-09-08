@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mycard</string>
+    <string name="option1">Hospital</string>
+    <string name="option2">Medicine</string>
+</resources>

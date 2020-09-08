@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217788169201",
+    "firebase_url": "https://mycard993.firebaseio.com",
+    "project_id": "mycard993",
+    "storage_bucket": "mycard993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217788169201:android:893f0a8442544a02e26250",
+        "android_client_info": {
+          "package_name": "com.example.mycard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217788169201-laj1iskjd4v10gun6d138085mjqra53k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FD5E-cFt0I9XYfVQGKtH0exwA6Xrz7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217788169201-laj1iskjd4v10gun6d138085mjqra53k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
